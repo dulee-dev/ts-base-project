@@ -26,8 +26,7 @@
     "eslint.init": "npm init @eslint/config@latest",
     "-------------------------------------- publish -----------------------------": "",
     "patch": "npm version patch",
-    "publish": "npm publish",
-    "publish.patch": "npm run patch && npm run publish"
+    "publish": "npm publish"
   },
   "keywords": [],
   "author": "",
