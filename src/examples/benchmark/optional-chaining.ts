@@ -1,7 +1,7 @@
 /* eslint-disable no-constant-binary-expression */
 /* eslint-disable no-constant-condition */
-import { report } from 'libs/benchmark/tasks/report.js';
-import { Case } from 'libs/benchmark/type.js';
+import { report } from 'src/libs/benchmark/tasks/report.js';
+import { Case } from 'src/libs/benchmark/type.js';
 
 /** optional chaining + 이탈조건 먼저 적는 식으로 하면 그래도 가독성 괜찮고성능 괜찮네 */
 const tag = 'optional chaining';
