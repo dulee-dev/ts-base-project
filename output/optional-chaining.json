@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "name": "use optional chaining",
+      "hz": 913129025.6562082,
+      "sampleCnt": 97
+    },
+    {
+      "name": "use return if",
+      "hz": 910870639.0120336,
+      "sampleCnt": 94
+    },
+    {
+      "name": "use let with escape conditions",
+      "hz": 929414668.4400996,
+      "sampleCnt": 97
+    }
+  ]
+}
