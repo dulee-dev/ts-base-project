@@ -23,10 +23,7 @@
     "-------------------------------------- init -----------------------------": "",
     "git.init": "git init",
     "typescript.init": "tsc --init",
-    "eslint.init": "npm init @eslint/config@latest",
-    "-------------------------------------- publish -----------------------------": "",
-    "patch": "npm version patch",
-    "publish": "npm publish"
+    "eslint.init": "npm init @eslint/config@latest"
   },
   "keywords": [],
   "author": "",
